@@ -13,7 +13,7 @@ pipeline {
 
         stage('Checkout from Git') {
             steps {
-                git 'https://github.com/KastroVKiran/DevOps-Project-Swiggy.git'
+                git 'https://github.com/malvihuzefa8/project-swiggy.git'
             }
         }
 
